@@ -1,0 +1,45 @@
+div {
+    width: 250px;
+    height: 100px;
+    margin: 10px 0 0 0;
+    background: rgb(184, 91, 138);
+    font-size: 43px;
+    text-align: center;
+}
+
+.color {
+    width: 400px;
+    height: 100px;
+    background: rgb(0, 183, 255);
+    font-size: 50px;
+    text-align: center;
+}
+
+.size {
+    width: 300px;
+    height: 142px;
+    background: rgb(184, 91, 138);
+    font-size: 50px;
+    text-align: center;
+}
+
+.border-r {
+    border-radius: 20px;
+}
+
+.shadow {
+    box-shadow: 10px 10px 10px rgb(46, 46, 46);
+}
+
+.border {
+    border: 10px solid lightskyblue;
+}
+
+.all {
+    width: 400px;
+    height: 100px;
+    background: rgb(0, 183, 255);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(46, 46, 46);
+    border: 10px solid rgb(184, 91, 138);
+}
